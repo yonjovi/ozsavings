@@ -1,0 +1,9 @@
+.streamlit/secrets.toml
+creds.json
+googleimgcrawler.py
+imagesearch.py
+savings.xlsx
+.venv/
+your_image_dir
+.DS_Store
+.gitignore
