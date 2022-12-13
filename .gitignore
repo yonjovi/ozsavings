@@ -7,3 +7,8 @@ savings.xlsx
 your_image_dir
 .DS_Store
 .gitignore
+clean_saver.py
+savings_preset.xlsx
+savings_modded.xlsx
+savings_modded.numbers
+calc.py
