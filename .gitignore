@@ -9,6 +9,5 @@ your_image_dir
 .gitignore
 clean_saver.py
 savings_preset.xlsx
-savings_modded.xlsx
 savings_modded.numbers
 calc.py
